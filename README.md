@@ -74,7 +74,7 @@ Launch the bot:
 python bot.py
 ```
 
-Interact with Mahdi on Telegram:
+Interact with Mahdi on Telegram using the chatbot of @Mahdi_SMF_bot, you will see
 - `/start`: Start interaction.
 - `/ask`: Prompt Mahdi for event-related inquiries.
 
