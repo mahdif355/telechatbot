@@ -80,6 +80,13 @@ Interact with Mahdi on Telegram using the chatbot of @Mahdi_SMF_bot, you will se
 
 Mahdi will guide users through private chat interactions, enforcing rate limits and supporting clear, structured conversations.
 
+## 🎬 Demo
+
+<video width="100%" controls autoplay loop>
+  <source src="./demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Contributing
 
 Your contributions are welcome! Please:
@@ -96,7 +103,7 @@ TeleChatbot is open-source software licensed under the [MIT License](LICENSE).
 ## Contact
 
 - **GitHub Issues**: [mahdif355/telechatbot](https://github.com/mahdif355/telechatbot/issues)
-- **Email**: your.email@example.com
+- **Email**: mahdifazeli94@gmail.com
 
 ---
 
