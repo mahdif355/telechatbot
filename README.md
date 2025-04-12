@@ -84,7 +84,7 @@ Mahdi will guide users through private chat interactions, enforcing rate limits 
 
 ## Demo
 
-![Demo](./demo.gif)
+![Demo](demo.gif)
 
 
 ## Contributing
