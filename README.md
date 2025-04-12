@@ -83,9 +83,10 @@ Mahdi will guide users through private chat interactions, enforcing rate limits 
 ## 🎬 Demo
 
 <video width="100%" controls autoplay loop>
-  <source src="./demo/demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ## Contributing
 
